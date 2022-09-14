@@ -2,6 +2,10 @@
 
 `Tenho 15 anos, sou viciado em games, gosto de montar cubo mágicos como hobby, e atualmente estu estudando sobre programção de jogos e scripts na Ctrl+Play🎓!`
 
+<div><!--Stats-->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroHFigueiredo13&show_icons=true&theme=omni"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHFigueiredo13&layout=compact&theme=omni"/>
+</div>
 
 <a href="https://www.instagram.com/_pedrooo.henrique"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
