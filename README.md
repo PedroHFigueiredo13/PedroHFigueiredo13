@@ -1,4 +1,6 @@
-<h2>Oi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="32px"></h2>
+<h2>Olá, me chamo Pedro Henrique! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="32px"></h2>
+
+`Tenho 15 anos, sou viciado em games, gosto de montar cubo mágicos como hobby, e atualmente estu estudando sobre programção de jogos e scripts na Ctrl+Play🎓!`
 
 
 <a href="https://www.instagram.com/_pedrooo.henrique"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
