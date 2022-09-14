@@ -8,13 +8,13 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/48/000000/unity.png"/>
 </div>
-<div><!--Stats-->
+<div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroHFigueiredo13&show_icons=true&theme=omni"/>
 </div>
 
 <div>
 <a href = "mailto:phmf600@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/_pedrooo.henrique"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/_pedrooo.henrique"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   ![Snake animation](https://github.com/PedroHFigueiredo13/PedroHFigueiredo13/blob/output/github-contribution-grid-snake.svg)
 </div> 
 
